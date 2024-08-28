@@ -525,6 +525,7 @@
         // }
  ?>
 <!-- Explode & Implode Function -->
+<!-- Explode & Implode Function Making array & marge Arry  -->
 
  <?php
    // $mystring ="I Am Learning PHP";
@@ -536,4 +537,15 @@
  
 
 ?>
+
+<!-- Cace Change  -->
+<!-- Cace Change: Can change Input Value Uppeer/lower -->
+
+
+
+
+
+
+
+
 
